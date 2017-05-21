@@ -1,4 +1,6 @@
 # Git Definitions
+# URL for help with any 2-factor authentication problems
+# https://youtu.be/hJLaXNMz8zw?list=PLg7s6cbtAD17uAwaZwiykDci_q3te3CTY
 
 **Instructions: ** Define each of the following Git concepts.
 
